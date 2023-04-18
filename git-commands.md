@@ -7,7 +7,7 @@
 ## Cloning github repo
 - git clone <github-repo-https-url>
 
-## Making changes
+## Making Changes
 - cd <repo-name>
 - code .
-- make changes
+- Make changes to file
